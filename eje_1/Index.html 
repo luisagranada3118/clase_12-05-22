@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./style/style.css">
+    <script src="./script/script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>los buhos</title>
+</head>
+<body class="is">
+    <h1 class="mu">los buhos</h1>
+    <h2 class="ca">caracteristicas</h2>
+    <img src="./img/descarga.webp">
+    <p class="letra">Un búho es un animal que pertenece al clado de los estrígidos. Se trata de un ave de hábitos nocturnos y rapaz, que se caracteriza por contar con plumas que parecen orejas. Esta peculiaridad permite diferenciar a los búhos de las lechuzas y de otras especies similares.</p>
+
+
+</body>
+</html>
